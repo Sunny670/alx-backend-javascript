@@ -1,12 +1,11 @@
-# 0x02. ES6 lasses
-## JavaScript ES6
+# 0x02. ES6 classes
+## OOP JavaScript ES6
 
 ### Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-1. Promises (how, why, and what)
-2. How to use the then, resolve, catch methods
-3. How to use every method of the Promise object
-4. Throw / Try
-5. The await operator
-6. How to use an async function.
+1. How to define a Class.
+2. How to add methods to a class
+3. Why and how to add a static method to a class
+4. How to extend a class from another
+5. Metaprogramming and symbols
